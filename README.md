@@ -1,7 +1,7 @@
 ## 🛠️ Personal Projects
 -  🧬 [Continuous GOL](https://github.com/bfaum/continuous_GOL) — Developed a continuous extension of Conway’s Game of Life using Python and Cuda. Tinkered with various update parameters leading to cool new stable structures.
 ## 🤖 Hackathons
-- ⬛[BlackBox Studio](https://github.com/Dandandooo/BlackBox-Studio/) — Built for HackIllinois 2025 for best DevTool and won! Check out the devpost: [Devpost](https://devpost.com/software/blackbox-studio). BlackBox is a scratch-like app that allows for creating Blocks that can be linked together with type checking and continuous updating. Contributed to the UI, enforcing valid connections between Blocks, and adding new Blocks. 
+- ⬛[BlackBox Studio](https://github.com/Dandandooo/BlackBox-Studio/) — Built for HackIllinois 2025 for best DevTool and won! Check out the [devpost](https://devpost.com/software/blackbox-studio). BlackBox is a scratch-like app that allows for creating Blocks that can be linked together with type checking and continuous updating. Contributed to the UI, enforcing valid connections between Blocks, and adding new Blocks. 
 - 👑[MechMania30](https://github.com/RoshanAH/mm30-solution) — Built for MechMania30 and won! Involved writing and testing many different bots and strategies to hone flight algorithms to outmaneuver opponents.
 <img src="dibz_vs_AlphaDog.gif" alt="dibz vs AlphaDog" width="300" />
 <!--
